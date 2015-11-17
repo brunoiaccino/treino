@@ -1,4 +1,9 @@
 <?php
 
-echo 'teste';
+class Teste{
+	
+	public $idade;
+}
+
+
 ?>
