@@ -1,5 +1,4 @@
 <?php
 
-echo 'arquivo remoto';
-
+echo now();
 ?>
