@@ -1,6 +1,6 @@
 <?php
 
+echo 'outro teste';
 
-echo 'teste';
 
 ?>
