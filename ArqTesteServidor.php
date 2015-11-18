@@ -1,4 +1,6 @@
 <?php
-teste
+
+
+echo 'teste';
 
 ?>
